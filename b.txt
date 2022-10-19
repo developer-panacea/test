@@ -1,0 +1,9 @@
+<?php
+
+echo "Hi this is test";
+
+echo "Hi php how are you";
+
+$a =  10;
+
+?>

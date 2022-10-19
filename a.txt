@@ -1,0 +1,7 @@
+<?php
+
+echo "Hllo this is test";
+
+echo "hello php how are you";
+
+?>
